@@ -1,12 +1,12 @@
 /* 
 You are walking to the local coffee shop, entering at the north west corner of a
  square in the city centre, when you see a doughnut, lying abandoned on the 
- floor, sprinkles scattered haphazardly around. Senses tingling and adrenaline 
- surging, you notice a traces of jam and powdered sugar scattered around the 
- area, suggesting signs of a struggle. You are intruiged and decide to 
- investigate further, when it suddenly flips onto it's side and rolls away. You 
- chase after the magical doughnut, whilst trying to reassure it you mean it no 
- harm. Luckily it is early in the morning, and no-one is around to witness your 
+ floor, sprinkles scattered haphazardly around. Senses tingling, you notice 
+ traces of jam and powdered sugar scattered around the  area, suggesting signs 
+ of a struggle. You are intruiged and decide to  investigate further, when it 
+ suddenly flips onto it's side and rolls away. You  chase after the magical 
+ doughnut, whilst trying to reassure it you mean it no  harm. Luckily it is 
+ early in the morning, and no-one is around to witness your 
  seeming loss of grip with reality.
 
 Whilst chasing the doughnut, you realise it is moving in a peculiar pattern. 
