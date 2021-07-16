@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1626476098564" clover="3.2.0">
+  <project timestamp="1626476098565" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="19" coveredconditionals="19" methods="1" coveredmethods="1" elements="30" coveredelements="30" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="/mnt/Storage/Documents/Coding/SoC/projects/workshops/w16_make-your-own-codewars-gschandan/main.js">
+      <metrics statements="10" coveredstatements="10" conditionals="19" coveredconditionals="19" methods="1" coveredmethods="1"/>
+      <line num="32" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="33" count="3956" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="6" type="stmt"/>
+      <line num="37" count="3950" type="stmt"/>
+      <line num="39" count="3950" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="2236" type="cond" truecount="4" falsecount="0"/>
+      <line num="41" count="1991" type="cond" truecount="4" falsecount="0"/>
+      <line num="43" count="1970" type="stmt"/>
+      <line num="44" count="1967" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
